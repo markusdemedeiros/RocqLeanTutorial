@@ -1,0 +1,6 @@
+name = "rocq-lean"
+version = "0.1.0"
+defaultTargets = ["RocqLean"]
+
+[[lean_lib]]
+name = "RocqLean"
